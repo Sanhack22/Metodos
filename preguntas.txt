@@ -1,0 +1,54 @@
+1. ¿Qué es un método en Java?
+
+Un método en Java es una subrutina o función que realiza una tarea específica. Los métodos son bloques de código que pueden ser invocados y reutilizados en un programa para realizar acciones específicas.
+
+2. ¿Cuáles son los cuatro tipos de métodos en Java?
+
+Los cuatro tipos de métodos en Java son:
+
+Método sin parámetros y sin retorno.
+Método sin parámetros y con retorno.
+Método con parámetros y sin retorno.
+Método con parámetros y con retorno.
+3. ¿Cuál es la diferencia entre un método con parámetros y sin retorno y un método sin parámetros y con retorno?
+La diferencia principal entre un método con parámetros y sin retorno y un método sin parámetros y con retorno radica en lo que hacen:
+Un método sin parámetros y sin retorno realiza una acción pero no devuelve ningún valor.
+Un método sin parámetros y con retorno no necesita datos de entrada, pero devuelve un valor como resultado.
+4. ¿Cuál es la diferencia entre un método con parámetros y con retorno y un método con parámetros y sin retorno?
+
+La diferencia entre un método con parámetros y con retorno y un método con parámetros y sin retorno es:
+Un método con parámetros y con retorno acepta datos de entrada y devuelve un valor como resultado.
+Un método con parámetros y sin retorno acepta datos de entrada y realiza una acción pero no devuelve ningún valor.
+5. ¿Por qué son importantes los métodos en Java?
+
+Los métodos son importantes en Java por varias razones:
+
+Ayudan a organizar y modularizar el código, lo que facilita su mantenimiento y comprensión.
+Permiten la reutilización del código, lo que ahorra tiempo y esfuerzo.
+Facilitan la abstracción y la encapsulación, lo que contribuye a la creación de código más limpio y eficiente.
+Permiten la implementación de la programación orientada a objetos, donde las acciones se modelan como métodos en clases.
+6. ¿Qué es una estructura de datos?
+Una estructura de datos es una forma de organizar y almacenar datos en la memoria de una computadora para su posterior procesamiento. Puede tomar varias formas, como arreglos, listas, pilas, colas, árboles, grafos, entre otros, y se utiliza para representar y manipular datos de manera eficiente.
+7. ¿Cuál es la diferencia entre un arreglo, un arrayList y un HashMap?
+
+
+Las diferencias entre un arreglo, un ArrayList y un HashMap son las siguientes:
+
+Arreglo (Array):
+
+Es una estructura de datos estática con un tamaño fijo.
+Los elementos se almacenan en posiciones contiguas de memoria.
+Requiere especificar el tamaño en el momento de la creación.
+No es dinámico, por lo que no puede cambiar de tamaño después de la creación.
+ArrayList:
+
+Es una implementación de una lista dinámica utilizando una matriz subyacente.
+Es dinámico, lo que significa que puede cambiar de tamaño automáticamente.
+No requiere un tamaño inicial y puede crecer según sea necesario.
+Se puede acceder a elementos por índice.
+HashMap:
+
+Es una estructura de datos que almacena pares clave-valor.
+Los elementos no se almacenan en posiciones contiguas de memoria.
+Permite buscar y recuperar valores de manera eficiente utilizando una clave.
+No almacena elementos en un orden específico y no se puede acceder por índice.
